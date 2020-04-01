@@ -9,7 +9,7 @@ Q_ave = (320 * u.ft**3/u.s).to(u.kL/u.s)
 Fe_C_ave = 13.14 * u.mg/u.L
 
 As_Cin_ave = 25 * u.ug/u.L
-As_M = (LAAWFP_Q * LAAWFP_As_C).to(u.kg/u.day)
+As_M = (Q_ave * As_Cin_ave).to(u.kg/u.day)
 
 Turbidity_Cin_ave = 14 * u.NTU
 Turbidity_Cout_ave = 3 * u.NTU
