@@ -1,0 +1,2 @@
+item description	vendor	contact first name	contact last name	vendor website	product info
+plate settlers	MRI			http://www.meurerresearch.com/	http://www.meurerresearch.com/literaturemedia/technical-information/plate-settler-technology/
