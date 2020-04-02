@@ -3,20 +3,6 @@ Use this file to hold parameters that are in the SOW or elsewhere that
 influence the design of the entire plant. This provides an easy mechanism
 for all of us to share the same assumptions.
 
-Variable naming convention
-* Use lower case letters almost always. Exception is element abbrevations
-* separate words with underscore
-* start general and work down to the specific variable if context is required
-
-The flow through a single plate settler would be:
-sed_plate_q
-
-The width of the total area dedicated to flocculators would be:
-floc_w
-
-The width of one floc tank would be:
-floc_tank_w
-
 """
 
 import aguaclara as ac
