@@ -1,0 +1,1 @@
+Put your images that you want to include in the Colab sheet in the folder with your team name.
