@@ -36,7 +36,7 @@ turbidity_c_out_design = 3 * u.NTU
 
 
 # Coagulant assumptions
-# This is the iron concentration, not the FeCl3 concentration
+# This is the FeCl3 concentration
 Fe_c_ave = 13.14 * u.mg/u.L
 
 # Arsenic
