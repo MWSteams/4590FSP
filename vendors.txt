@@ -1,2 +1,6 @@
 item description	vendor	contact first name	contact last name	vendor website	product info	date of contact	who made the contact	notes
-plate settlers	MRI	still	pending	http://www.meurerresearch.com/	http://www.meurerresearch.com/literaturemedia/technical-information/plate-settler-technology/	4/4/2020	no one	
+plate settlers	MRI	still	pending	http://www.meurerresearch.com/	http://www.meurerresearch.com/literaturemedia/technical-information/plate-settler-technology/	4/16/2020	Ian Cullings	
+sludge removal system	MRI	still	pending 	http://www.meurerresearch.com/	http://www.meurerresearch.com/products/hoseless-sludge-collector/	4/16/2020	Ian Cullings	
+plate settlers	Monore Environmental	still	pending 	https://www.monroeenvironmental.com/	https://www.monroeenvironmental.com/water-and-wastewater-treatment/plate-settlers/	4/16/2020	Ian Cullings	
+sludge removal system	Monore Environmental	still	pending 	https://www.monroeenvironmental.com/	http://www.monroeenvironmental.com/water-and-wastewater-treatment/sludge-collectors/	4/16/2020	Ian Cullings	
+plate settler with hopper	Parkson	still	pending 	https://www.parkson.com/	https://www.parkson.com/products/lamella-ecoflow	4/16/2020	Ian Cullings	Includes sloped sludge hopper in design
