@@ -4,4 +4,5 @@ sludge removal system	MRI	still	pending 	http://www.meurerresearch.com/	http://w
 plate settlers	Monore Environmental	still	pending 	https://www.monroeenvironmental.com/	https://www.monroeenvironmental.com/water-and-wastewater-treatment/plate-settlers/	4/16/2020	Ian Cullings	
 sludge removal system	Monore Environmental	still	pending 	https://www.monroeenvironmental.com/	http://www.monroeenvironmental.com/water-and-wastewater-treatment/sludge-collectors/	4/16/2020	Ian Cullings	
 plate settler with hopper	Parkson	still	pending 	https://www.parkson.com/	https://www.parkson.com/products/lamella-ecoflow	4/16/2020	Ian Cullings	Includes sloped sludge hopper in design
-rapid mech mixer	Dynamix	still	pending	https://www.dynamixinc.com	https://www.dynamixinc.com/industries/waste-water-industry	4/16/2020	Lynn Li	
+rapid mixer (mech)	Dynamix	still	pending	https://www.dynamixinc.com	https://www.dynamixinc.com/industries/waste-water-industry	4/16/2020	Lynn Li	
+rapid mixer (mech)	Meurer Research	still	pending	http://www.meurerresearch.com	http://www.meurerresearch.com/products/mixer/	4/16/2020	Lynn Li	
