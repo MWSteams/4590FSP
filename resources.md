@@ -21,12 +21,14 @@ Monroe's understanding is that drinking water treatment plants use destabilizati
 
 The [Cottonwood WTP appears to simply be coagulant injection into the LA Aqueduct](https://www.google.com/maps/@36.4157393,-118.0395053,135m/data=!3m1!1e3). The site is north of Haiwee Reservoir and includes a small tank farm with two tanks for FeCl3 and two tanks for the cationic polymer. The diffusers appear to be 4 pipes that inject the coagulant into the aqueduct.
 ![](https://github.com/MWSteams/4590FSP/raw/master/Images/Cottonwood_Diffuser.png)
+
 Photo from Presentation on theme: "The Los Angeles Aqueduct Filtration Plant An Overview of Facilities and Operations."
 - from [The Los Angeles Aqueduct Filtration Plant An Overview of Facilities and Operations.](https://slideplayer.com/slide/10108078/)
 
 # Rapid Mix at LAAFP
 
 ![](https://github.com/MWSteams/4590FSP/raw/master/Images/LAAWFP_rapid_mix.png)
+
 Photo from Presentation on theme: "The Los Angeles Aqueduct Filtration Plant An Overview of Facilities and Operations."
 * Two mixers in series on each train
 * Vertical-shaft, radial turbine impellers
