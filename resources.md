@@ -4,6 +4,8 @@
 
 "These data can be used to examine the delivery of iron and arsenic to the sedimens and their diagenetic behavior within the sediments. based on 4-yr average values of the arsenic concentration above Cottonwood (24.8 ug/L) and below haiwee (8.3 ug/L) and the ferric chloride dose (5.7 mg/L), the molar ratio of iron to arsenic in the floc is 160. the ame value is observed in theparticulate fraction in the wter samples collected below the LAA discharge." p 170
 
+Cottonwood plant uses diffusers to inject the coagulant. We need to find the design because it is likely that we don't need to use much energy for rapid mix and this might be the proof that we need.
+
 - Biogeochemical Controls on Arsenic Occurrence and Mobility in Water Supplies by Janet G Hering and Penelope E Kneebone in Environmental Chemistry of Arsenic edited by Jr, William T. Frankenberger (2002)
 
 
