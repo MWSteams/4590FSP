@@ -67,22 +67,46 @@ This will include the number of treatment trains
 and more as our design progresses.
 
 The following parameter values are currently randomly assigned by Monroe. 
+The dimensions are for ONE of the units with n units total
 """
 #random by Monroe
-n_rm = 4
+n_rm_hyd = 4
 #random by Monroe
-L_rm = 3 * u.m
+L_rm_hyd = 3 * u.m
 #random by Monroe
-W_rm = 3 * u.m
+W_rm_hyd = 3 * u.m
+
 #random by Monroe
-n_floc = 4
+n_rm_mech = 4
 #random by Monroe
-L_floc = 10 * u.m
+L_rm_mech = 3 * u.m
 #random by Monroe
-W_floc = 10 * u.m
+W_rm_mech = 3 * u.m
+
 #random by Monroe
-n_sed = 16
+n_floc_hyd = 4
 #random by Monroe
-L_sed = 10 * u.m
+L_floc_hyd = 10 * u.m
 #random by Monroe
-W_sed = 40 * u.m
+W_floc_hyd = 10 * u.m
+
+#random by Monroe
+n_floc_mech = 4
+#random by Monroe
+L_floc_mech = 10 * u.m
+#random by Monroe
+W_floc_mech = 10 * u.m
+
+#random by Monroe
+n_sed_hyd = 16
+#random by Monroe
+L_sed_hyd = 10 * u.m
+#random by Monroe
+W_sed_hyd = 40 * u.m
+
+#random by Monroe
+n_sed_mech = 16
+#random by Monroe
+L_sed_mech = 10 * u.m
+#random by Monroe
+W_sed_mech = 40 * u.m
