@@ -66,15 +66,23 @@ Assumptions that we are making that influence the entire design.
 This will include the number of treatment trains
 and more as our design progresses.
 
-The following number are currently randomly assigned by Monroe. 
+The following parameter values are currently randomly assigned by Monroe. 
 """
+#random by Monroe
+n_rm = 4
+#random by Monroe
+L_rm = 3 * u.m
+#random by Monroe
+W_rm = 3 * u.m
+#random by Monroe
+n_floc = 4
+#random by Monroe
+L_floc = 10 * u.m
+#random by Monroe
+W_floc = 10 * u.m
 #random by Monroe
 n_sed = 16
 #random by Monroe
 L_sed = 10 * u.m
+#random by Monroe
 W_sed = 40 * u.m
-#random by Monroe
-n_rm = 4
-#random by Monroe
-n_floc = 4
-
