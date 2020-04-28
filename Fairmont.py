@@ -39,6 +39,10 @@ turbidity_c_out_design = 3 * u.NTU
 # This is the FeCl3 concentration
 Fe_c_ave = 13.14 * u.mg/u.L
 
+#Emulsion polymer
+yearly_emulsion_polymer_est=165*u.ton/u.year
+emulsionpolymer_c_ave=(yearly_emulsion_polymer_est/(fmt.q_ave)).to(u.mg/u.liter)
+
 # Arsenic
 As_c_in_ave = 25 * u.ug/u.L
 
