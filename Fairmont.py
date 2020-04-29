@@ -23,6 +23,10 @@ q_max = (720 * u.ft**3/u.s).to(u.kL/u.s)
 q_ave = (320 * u.ft**3/u.s).to(u.kL/u.s)
 # q_min = need to find this value
 
+# Plate settler requirements
+hydraulic_loading_rate = (0.5*u.gallon/(u.minute * u.feet**2)).to(u.mm/u.s)
+# from page 15 of SOW
+
 # Turbidity assumptions
 
 # from Table VIII_1 of SOW
