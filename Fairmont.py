@@ -66,6 +66,12 @@ C_c_out_design = 3 * u.mg/u.L
 electricity_power = (9377471 * u.kW*u.hr/u.year).to(u.kW)
 
 """Regulations that influence the design"""
+# 10 State Standards
+velo_flocculated_min = (0.5*u.feet/u.s).to(u.m/u.s)
+# The velocity of flocculated water through pipes or conduits to settling basins shall be no less than 0.5 feet/s 
+
+velo_flocculated_max= (1.5*u.feet/u.s).to(u.m/u.s)
+# The velocity of flocculated water through pipes or conduits to settling basins shall not be greater than 1.5 feet/s 
 
 # waiting for some of these!
 
