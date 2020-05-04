@@ -7,3 +7,4 @@ plate settler with hopper	Parkson	still	pending 	https://www.parkson.com/	https:
 rapid mixer (mech)	Dynamix	still	pending	https://www.dynamixinc.com	https://www.dynamixinc.com/industries/waste-water-industry	4/16/2020	Lynn Li	
 rapid mixer (mech)	Meurer Research	still	pending	http://www.meurerresearch.com	http://www.meurerresearch.com/products/mixer/	4/16/2020	Lynn Li	
 rapid mixer (mech)	Philadelphia Mixing Solutions	still	pending	https://www.philamixers.com	https://www.philamixers.com/industries/water-wastewater/	4/16/20	Lynn Li	
+flocculator (mech)	Sereco	still	pending	http://www.sereco.it/	05/04/2020	Lynn Li
