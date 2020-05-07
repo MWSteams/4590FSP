@@ -21,7 +21,7 @@ project_a = project_w * project_l
 q_max = (720 * u.ft**3/u.s).to(u.kL/u.s)
 # from page 16 of SOW
 q_ave = (320 * u.ft**3/u.s).to(u.kL/u.s)
-# q_min = 60 * u.Mgallon/u.day #per T&M
+q_min = 60 * u.Mgallon/u.day #per T&M
 
 # Plate settler requirements
 hydraulic_loading_rate = (0.5*u.gallon/(u.minute * u.feet**2)).to(u.mm/u.s)
