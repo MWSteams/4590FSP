@@ -42,6 +42,7 @@ turbidity_c_out_design = 3 * u.NTU
 # Coagulant assumptions
 # This is the FeCl3 concentration
 Fe_c_ave = 13.14 * u.mg/u.L
+Fe_c_max = 30 * u.mg/u.L
 
 #Emulsion polymer
 yearly_emulsion_polymer_est=165*u.ton/u.year
