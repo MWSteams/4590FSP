@@ -91,8 +91,8 @@ L_rm_hyd = 3 * u.m
 #random by Monroe
 W_rm_hyd = 3 * u.m
 
-#random by Monroe
-n_rm_mech = 8
+# Changed by Chemicals
+n_rm_mech = 3
 #random by Monroe
 L_rm_mech = 3 * u.m
 #random by Monroe
