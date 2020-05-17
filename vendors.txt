@@ -12,3 +12,4 @@ decanter centrifuge (resid)  GN Solids Control  still pending https://www.gnsoli
 decanter centrifuge (resid)     ANDRITZ Group   waiting response  https://www.andritz.com/separation-en/products/decanter-centrifuges 5/5/20    Izabella Kornak
 pump calibration column McMaster Carr n/a n/a https://www.mcmaster.com/4446K78-4446K78  https://www.mcmaster.com/4446K78-4446K78  5/15/2020 Ananya Gangadhar  need to determine size of column
 eye wash stations McMaster Carr n/a n/a https://www.mcmaster.com/eye-wash-stations/ansi-compliant-floor-mount-eye-wash-stations-with-pipe-connection/ https://www.mcmaster.com/5568T13-5568T13  5/15/2020 Ananya Gangadhar
+safety showers with eye wash stations McMaster Carr n/a n/a https://www.mcmaster.com/safety-showers/  https://www.mcmaster.com/5557T7-5557T7 5/17/2020  Ananya Gangadhar
