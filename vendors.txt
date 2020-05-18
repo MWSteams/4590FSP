@@ -4,10 +4,6 @@ sludge removal system	MRI	still	pending 	http://www.meurerresearch.com/	http://w
 plate settlers	Monore Environmental	still	pending 	https://www.monroeenvironmental.com/	https://www.monroeenvironmental.com/water-and-wastewater-treatment/plate-settlers/	4/16/2020	Ian Cullings	
 sludge removal system	Monore Environmental	still	pending 	https://www.monroeenvironmental.com/	http://www.monroeenvironmental.com/water-and-wastewater-treatment/sludge-collectors/	4/16/2020	Ian Cullings	
 plate settler with hopper	Parkson	still	pending 	https://www.parkson.com/	https://www.parkson.com/products/lamella-ecoflow	4/16/2020	Ian Cullings	Includes sloped sludge hopper in design
-Pump calibration columnn	McMaster Carr 	N/A 	N/A 	https://www.mcmaster.com/4446K78-4446K78	https://www.mcmaster.com/4446K78-4446K78	5/15/2020	Ananya Gangadhar	20,000 mL for FeCl3 and 250 mL for polymer
-Eye wash stations	McMaster Carr 	N/A 	N/A 	https://www.mcmaster.com/eye-wash-stations/ansi-compliant-floor-mount-eye-wash-stations-with-pipe-connection/	https://www.mcmaster.com/5568T13-5568T13	5/15/2020	Ananya Gangadhar	Meets OSHA requirements	
-Safety showers with eye wash stations	McMaster Carr	N/A	N/A 	https://www.mcmaster.com/safety-showers/	https://www.mcmaster.com/5557T7-5557T7	5/17/2020	Ananya Gangadhar	Meets OSHA requirements
-40% FeCl3 solution	Brenntag	N/A	N/A 	https://us.brenntagconnect.com/	https://us.brenntagconnect.com/ccrz__ProductDetails?viewState=DetailView&cartID=&portalUser=&store=&cclcl=en_US&sku=273144	5/7/2020	Ananya Gangadhar	Maximize plan view area
 rapid mixer (mech)	Dynamix	still	pending	https://www.dynamixinc.com	https://www.dynamixinc.com/industries/waste-water-industry	4/16/2020	Lynn Li	
 rapid mixer (mech)	Meurer Research	still	pending	http://www.meurerresearch.com	http://www.meurerresearch.com/products/mixer/	4/16/2020	Lynn Li	
 rapid mixer (mech)	Philadelphia Mixing Solutions	still	pending	https://www.philamixers.com	https://www.philamixers.com/industries/water-wastewater/	4/16/20	Lynn Li	
