@@ -120,8 +120,8 @@ L_sed_hyd = 10 * u.m
 W_sed_hyd = 40 * u.m
 
 #random by Monroe
-n_sed_mech = 8
+n_sed_mech = 10
 #random by Monroe
-L_sed_mech = 10 * u.m
+L_sed_mech = 27.59 * u.m
 #random by Monroe
-W_sed_mech = 40 * u.m
+W_sed_mech = 18.59 * u.m
