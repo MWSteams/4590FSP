@@ -4,13 +4,16 @@ sludge removal system	MRI	still	pending 	http://www.meurerresearch.com/	http://w
 plate settlers	Monore Environmental	still	pending 	https://www.monroeenvironmental.com/	https://www.monroeenvironmental.com/water-and-wastewater-treatment/plate-settlers/	4/16/2020	Ian Cullings	
 sludge removal system	Monore Environmental	still	pending 	https://www.monroeenvironmental.com/	http://www.monroeenvironmental.com/water-and-wastewater-treatment/sludge-collectors/	4/16/2020	Ian Cullings	
 plate settler with hopper	Parkson	still	pending 	https://www.parkson.com/	https://www.parkson.com/products/lamella-ecoflow	4/16/2020	Ian Cullings	Includes sloped sludge hopper in design
+Pump calibration columnn	McMaster Carr	N/A	N/A	https://www.mcmaster.com/4446K78-4446K78	https://www.mcmaster.com/4446K78-4446K78	5/15/2020	Ananya Gangadhar	Need to determine size of column
+...EDIT plate settlers	MRI	still	pending	http://www.meurerresearch.com/	http://www.meurerresearch.com/literaturemedia/technical-information/plate-settler-technology/	4/16/2020	Ian Cullings	
+...EDIT sludge removal system	MRI	still	pending 	http://www.meurerresearch.com/	http://www.meurerresearch.com/products/hoseless-sludge-collector/	4/16/2020	Ian Cullings	
+..EDIT plate settlers	Monore Environmental	still	pending 	https://www.monroeenvironmental.com/	https://www.monroeenvironmental.com/water-and-wastewater-treatment/plate-settlers/	4/16/2020	Ian Cullings	
 rapid mixer (mech)	Dynamix	still	pending	https://www.dynamixinc.com	https://www.dynamixinc.com/industries/waste-water-industry	4/16/2020	Lynn Li	
 rapid mixer (mech)	Meurer Research	still	pending	http://www.meurerresearch.com	http://www.meurerresearch.com/products/mixer/	4/16/2020	Lynn Li	
 rapid mixer (mech)	Philadelphia Mixing Solutions	still	pending	https://www.philamixers.com	https://www.philamixers.com/industries/water-wastewater/	4/16/20	Lynn Li	
 flocculator (mech)	Sereco	still	pending	http://www.sereco.it/	https://www.directindustry.com/prod/sereco/product-91651-860585.html	05/04/2020	Lynn Li
 decanter centrifuge (resid)  GN Solids Control  still pending https://www.gnsolidscontrol.com/decanting-centrifuge/?gclid=Cj0KCQjwncT1BRDhARIsAOQF9Lkk-1m9DAukbyKdJ08SXchaArDWD-1Zpj11y7nfHV_hsrxoASkraUwaAiq-EALw_wcB  5/5/20  Izabella Kornak
 decanter centrifuge (resid)     ANDRITZ Group   waiting response  https://www.andritz.com/separation-en/products/decanter-centrifuges 5/5/20    Izabella Kornak
-Pump calibration column  McMaster Carr  N/A  N/A  https://www.mcmaster.com/4446K78-4446K78  https://www.mcmaster.com/4446K78-4446K78  5/15/2020  Ananya Gangadhar  Need to determine size of column
 Eye wash stations  McMaster Carr  N/A  N/A  https://www.mcmaster.com/eye-wash-stations/ansi-compliant-floor-mount-eye-wash-stations-with-pipe-connection/  https://www.mcmaster.com/5568T13-5568T13  5/15/2020  Ananya Gangadhar
 Safety showers with eye wash stations  McMaster Carr  N/A  N/A  https://www.mcmaster.com/safety-showers/  https://www.mcmaster.com/5557T7-5557T7  5/17/2020  Ananya Gangadhar
 40% FeCl3 solution  Brenntag  N/A  N/A  https://us.brenntagconnect.com/  https://us.brenntagconnect.com/ccrz__ProductDetails?viewState=DetailView&cartID=&portalUser=&store=&cclcl=en_US&sku=273144  5/7/2020  Ananya Gangadhar
